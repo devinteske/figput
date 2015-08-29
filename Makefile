@@ -1,4 +1,5 @@
 # $FreeBSD$
+# $Header$
 
 LIB=		figput
 SHLIB_MAJOR=	0
